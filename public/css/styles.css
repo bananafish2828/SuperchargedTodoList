@@ -8,6 +8,16 @@ nav.navbar-default {
   overflow: hidden
 }
 
+nav.md-toolbar-tools {
+  /*  background-color: #34495E; */
+  /*  background-color: #F8F8F8; */
+  background-image: linear-gradient(to bottom,#fff 0,#f8f8f8 100%);
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  overflow: hidden
+}
+
 body.main {
   margin-top: 65px;
   background-size: cover;
